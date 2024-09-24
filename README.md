@@ -1,7 +1,6 @@
 # Social-Media-Sentiment-Analyzer-
 # Redil
 <img src="redillogo.png" alt="Project Logo" width="100"/>
-## Project Overview
 
 The **Social Media Sentiment Analyzer** is a web-based tool that fetches, analyzes, and visualizes the sentiment of comments from social media posts. Using a **lexicon-based sentiment analysis approach**, the application organizes comments based on sentiment scores and generates graphs to display sentiment trends. The tool also includes a **feedback page** and a sentiment-aware chatbot that interacts with users based on their emotional tone.
 
