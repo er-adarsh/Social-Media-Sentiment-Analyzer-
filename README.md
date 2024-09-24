@@ -1,5 +1,5 @@
 # Social-Media-Sentiment-Analyzer-
-#ReDil
+# Redil
 <img src="redillogo.png" alt="Project Logo" width="100"/>
 ## Project Overview
 
@@ -64,7 +64,7 @@ Make sure you have the following installed:
 5. Provide Feedback: Submit your feedback through the feedback page and let the system analyze your sentiment.
 
 ## Example graph visulaizations
-<img src="bargraphanalysis.png" alt="Project Logo" width="200"/>
+<img src="bargraphanalysis.png" alt="Project Logo" width="300"/>   <img src="piechartdistribution.png" alt="Project Logo" width="300"/>
 
 ## License
 
@@ -73,6 +73,6 @@ Make sure you have the following installed:
 
 ## Contact Info
 
-**Adarsh Kumar Thakur**
-er.adarshthakur@gmail.com
+**Adarsh Kumar Thakur** </br>
+er.adarshthakur@gmail.com </br>
 redilai.app@gmail.com
