@@ -1,21 +1,3 @@
-import dash
-from dash import dcc, html
-from dash.dependencies import Input, Output, State
-import dash_bootstrap_components as dbc
-import pandas as pd
-from collections import Counter
-from googleapiclient.discovery import build
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-import nltk
-import plotly.express as px
-import plotly.graph_objects as go
-import instaloader
-import random
-from nltk.corpus import stopwords
-
-nltk.download('vader_lexicon')
-nltk.download('stopwords')
-
 # Predefined YouTube API key
 YOUTUBE_API_KEY = ''
 
