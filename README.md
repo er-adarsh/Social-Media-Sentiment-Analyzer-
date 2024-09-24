@@ -51,9 +51,9 @@ nltk.download('stopwords')
 ## Installation and Setup
 
 Make sure you have the following installed:
-  1.Python 3.x
-  2.API keys for social media platforms (e.g., Google, Instagram)
-  3.Internet connection for fetching data from APIs
+- Python 3.x
+- API keys for social media platforms (e.g., Google, Instagram)
+- Internet connection for fetching data from APIs
 
 ## Usage
 1. Fetch Comments: Enter the social media post URL (YouTube or Instagram), and the app fetches comments using the relevant API.
@@ -62,5 +62,6 @@ Make sure you have the following installed:
 4. Chatbot: Interact with a chatbot that responds based on the sentiment of your feedback.
 5. Provide Feedback: Submit your feedback through the feedback page and let the system analyze your sentiment.
 
-#Example visulaizations
+## Example graph visulaizations
+
 
