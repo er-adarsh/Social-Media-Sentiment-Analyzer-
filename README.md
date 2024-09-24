@@ -47,7 +47,7 @@ from nltk.corpus import stopwords
 # Ensure necessary NLTK resources are downloaded
 nltk.download('vader_lexicon')
 nltk.download('stopwords')
-
+```
 ## Installation and Setup
 
 Make sure you have the following installed:
